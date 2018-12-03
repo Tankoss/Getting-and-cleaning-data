@@ -1,7 +1,7 @@
 # Getting-and-cleaning-data
 Final assignment, course getting and cleaning data
 
-## In order to creat tidy_dataset following actions were taken
+## In order to create tidy_dataset following actions were taken
 
 1. Merges the training and the test sets to create one data set.
 - load certain libraries
